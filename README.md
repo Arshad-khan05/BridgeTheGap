@@ -79,7 +79,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/curioussoul123/BridgeTheGap.git
+   git clone https://github.com/Arshad-khan05/BridgeTheGap.git
    cd BridgeTheGap
    ```
 
